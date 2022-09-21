@@ -1,0 +1,14 @@
+README.md
+setup.py
+processador_imagem_virtual/__init__.py
+processador_imagem_virtual.egg-info/PKG-INFO
+processador_imagem_virtual.egg-info/SOURCES.txt
+processador_imagem_virtual.egg-info/dependency_links.txt
+processador_imagem_virtual.egg-info/requires.txt
+processador_imagem_virtual.egg-info/top_level.txt
+processador_imagem_virtual/processando/__init__.py
+processador_imagem_virtual/processando/combinacao.py
+processador_imagem_virtual/processando/transformacao.py
+processador_imagem_virtual/util/__init__.py
+processador_imagem_virtual/util/io.py
+processador_imagem_virtual/util/plot.py
