@@ -2,12 +2,16 @@
 ### VIRTUAL IMAGE PROCESSOR 
 
 **PORTUGUES**
+
 Descricao.
+
 O processamento da imagem do pacote e usado para:
+	
 	Em processamento:
-		- Correspondência de histograma
+		- Correspondencia de histograma
 		- Semelhanca estrutural
 		- Redimensionar imagem
+	
 	Util:
 		- Ler imagem
 		- Salvar imagem
@@ -16,12 +20,16 @@ O processamento da imagem do pacote e usado para:
 		- Plotar histograma
 
 **ENGLISH**
+
 Description.
+
 The package image processing is used to:
+	
 	Processing:
 		- Histogram  matching
 		- Structural similarity
 		- Resize image
+	
 	Utils: 
 		- Read image
 		- Save image
